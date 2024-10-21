@@ -1,7 +1,7 @@
 ## Hi there 👋
-<div id="header">
-    <h1>Всем привет</h1>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="java script" width="40" height="40"/>
+          
 <!--
 **no3utufff89/no3utufff89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
